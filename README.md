@@ -1,6 +1,4 @@
-# Pneumonia-Detection-using-Deep-Learning
-
-# 🫁 Pneumonia Detection via Chest X-Rays: A Comparative Deep Learning Study
+# Pneumonia Detection via Chest X-Rays: A Comparative Deep Learning Study
 
 ## 🏥 Project Motivation
 Pneumonia is a critical respiratory infection that requires rapid and accurate diagnosis. While traditional CNNs are effective, medical datasets are often imbalanced or limited in size. This project conducts a comparative analysis between a **Custom CNN** and **MobileNetV2 Transfer Learning** to optimize diagnostic accuracy and reduce false-positive rates in clinical screening.
